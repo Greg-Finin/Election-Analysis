@@ -5,7 +5,7 @@ For this project we were given a set of election data and asked to retrieve a va
 ## Election Audit Results
 The lists below review the information gathered about the election.
 
-### Candidate Data
+## Candidate Data
 * Charles Casper Stockham: 23.0% (85,213)
 * Diana DeGette: 73.8% (272,892)
 * Raymon Anthony Doane: 3.1% (11,606)
@@ -13,7 +13,7 @@ The lists below review the information gathered about the election.
 * Diana DeGette
 * Vote Count: 272,892
 * Percentage: 73.8%
-### County Data
+## County Data
 * Jefferson: 10.5% (38,855)
 * Denver: 82.8% (306,055)
 * Arapahoe: 6.7% (24,801)
